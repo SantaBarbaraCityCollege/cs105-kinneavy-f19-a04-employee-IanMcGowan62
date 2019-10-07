@@ -18,7 +18,7 @@ public class Employee {
 
     /**
      * Constructor that creates a new Employee with an initial name and salary.
-     * 
+     * Small Change
      */
     String employeeName;
     double currentSalary;
